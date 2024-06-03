@@ -64,3 +64,5 @@ https://labs.detectify.com/
 https://www.pmnh.site/
 https://thehackerish.com/category/hacking/bug-bounty/
 https://www.allysonomalley.com/
+https://www.cisecurity.org/insights/blog
+https://www.yeswehack.com/blog/learn-bug-bounty?page=1
